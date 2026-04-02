@@ -1,3 +1,8 @@
+---
+name: amazon-ppc-audit
+description: Helps sellers audit the structure, efficiency, and performance of their Amazon PPC (Pay-Per-Click) advertising campaigns. Use when the user wants to reduce ACoS, improve ROAS, restructure ad campaigns, optimize keyword bids, fix negative keyword gaps, or diagnose budget allocation issues across Sponsored Products, Sponsored Brands, and Sponsored Display.
+---
+
 # Amazon PPC Audit / 亚马逊广告诊断
 
 > **Bilingual Support**: Respond in the same language the user writes in.
