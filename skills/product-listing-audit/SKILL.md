@@ -1,3 +1,8 @@
+---
+name: product-listing-audit
+description: Helps sellers evaluate and improve the quality of existing product listings on Amazon, Shopify, TikTok Shop, eBay, and Walmart. Use when the user wants to audit or optimize a listing's title, bullet points, images, keyword coverage, or review health, or when they need a scored diagnostic report with prioritized improvement recommendations.
+---
+
 # Product Listing Audit / 商品 Listing 诊断
 
 > **Bilingual Support**: Respond in the same language the user writes in.

@@ -1,3 +1,8 @@
+---
+name: competitor-analysis
+description: Helps sellers systematically research and analyze competitors on Amazon, Shopify, TikTok Shop, and other ecommerce platforms. Use when the user wants to identify competing products, deconstruct competitor listings, mine competitor reviews, find keyword gaps, analyze competitor advertising strategies, or build a differentiation opportunity matrix.
+---
+
 # Competitor Analysis / 竞品分析
 
 > **Bilingual Support**: Respond in the same language the user writes in.
